@@ -1,4 +1,4 @@
-### How to Clone This Config File:
+## How to Clone This Config File:
 
 ```
 cd C:\Users\LexSong\AppData\Roaming\PolyMC
